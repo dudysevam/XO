@@ -1,0 +1,10 @@
+.all_div{
+    width: 306px;
+    height: 306px;
+    border: 1px solid purple;
+}
+div{
+    width: 100px;
+    height: 100px;
+border: 1px solid purple;
+float: left;}
